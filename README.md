@@ -1,2 +1,2 @@
 # Python-Programing
-Learning Python Programing, 2nd year semester 3. Name - Naman Dixit SapID - 500125539
+Learning Python Programing, 1nd year semester 2. Name - Naman Dixit SapID - 500125539
